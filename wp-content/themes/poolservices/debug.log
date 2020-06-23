@@ -1,0 +1,88 @@
+10.08.2017 14:08:50 Dispatch action: import_tpl
+10.08.2017 14:08:50 Import Theme Options
+10.08.2017 14:08:50 Load data from the file http://poolservices.ancorathemes.com/demo/default/templates_options.txt successful
+10.08.2017 14:08:50 AJAX handler finished - send results to client: {"action":"import_tpl","error":"","start_from_id":0,"result":100}
+10.08.2017 14:08:50 Dispatch action: import_widgets
+10.08.2017 14:08:50 Import Widgets
+10.08.2017 14:08:50 Load data from the file http://poolservices.ancorathemes.com/demo/default/widgets.txt successful
+10.08.2017 14:08:50 AJAX handler finished - send results to client: {"action":"import_widgets","error":"","start_from_id":0,"result":100}
+10.08.2017 14:08:51 Dispatch action: import_essgrids
+10.08.2017 14:08:51 Load data from the file http://poolservices.ancorathemes.com/demo/default/ess_grid.json successful
+10.08.2017 14:08:51 Essential Grid import complete
+10.08.2017 14:08:51 AJAX handler finished - send results to client: {"action":"import_essgrids","error":"","start_from_id":0,"result":100}
+10.08.2017 14:08:52 Dispatch action: import_revslider
+10.08.2017 14:08:52 Import Revolution sliders
+10.08.2017 14:08:52 Load data from the file http://poolservices.ancorathemes.com/demo/default/revslider.txt successful
+10.08.2017 14:08:52 Download file http://poolservices.ancorathemes.com/demo/default/revsliders/boxedslider.zip successful
+10.08.2017 14:08:52 Slider "boxedslider.zip" imported
+10.08.2017 14:08:52 AJAX handler finished - send results to client: {"action":"import_revslider","error":"","start_from_id":"revsliders\/boxedslider.zip","result":33}
+10.08.2017 14:08:53 Dispatch action: import_revslider
+10.08.2017 14:08:53 Import Revolution sliders
+10.08.2017 14:08:53 Download file http://poolservices.ancorathemes.com/demo/default/revsliders/Homeslider1.zip successful
+10.08.2017 14:08:53 Slider "Homeslider1.zip" imported
+10.08.2017 14:08:53 AJAX handler finished - send results to client: {"action":"import_revslider","error":"","start_from_id":"revsliders\/Homeslider1.zip","result":67}
+10.08.2017 14:08:54 Dispatch action: import_revslider
+10.08.2017 14:08:54 Import Revolution sliders
+10.08.2017 14:08:54 Download file http://poolservices.ancorathemes.com/demo/default/revsliders/homeslider2.zip successful
+10.08.2017 14:08:54 Slider "homeslider2.zip" imported
+10.08.2017 14:08:54 AJAX handler finished - send results to client: {"action":"import_revslider","error":"","start_from_id":"revsliders\/homeslider2.zip","result":100}
+10.08.2017 14:08:55 Dispatch action: import_woocommerce
+10.08.2017 14:08:55 Import dump file: "woocommerce.txt"
+10.08.2017 14:08:55 Load data from the file http://poolservices.ancorathemes.com/demo/default/woocommerce.txt successful
+10.08.2017 14:08:55 Process table "woocommerce_attribute_taxonomies"
+10.08.2017 14:08:55 Imported 100%. Elapsed time 0 sec. of 162 sec.
+10.08.2017 14:08:55 Process table "woocommerce_downloadable_product_permissions"
+10.08.2017 14:08:55 Imported 100%. Elapsed time 0 sec. of 162 sec.
+10.08.2017 14:08:55 Process table "woocommerce_order_itemmeta"
+10.08.2017 14:08:55 Imported 100%. Elapsed time 0 sec. of 162 sec.
+10.08.2017 14:08:55 Process table "woocommerce_order_items"
+10.08.2017 14:08:55 Imported 100%. Elapsed time 0 sec. of 162 sec.
+10.08.2017 14:08:55 Process table "woocommerce_termmeta"
+10.08.2017 14:08:55 Imported 100%. Elapsed time 0 sec. of 162 sec.
+10.08.2017 14:08:55 AJAX handler finished - send results to client: {"action":"import_woocommerce","error":"","start_from_id":0,"result":100}
+10.08.2017 14:08:55 Dispatch action: import_end
+10.08.2017 14:08:55 AJAX handler finished - send results to client: {"action":"import_end","error":"","start_from_id":0,"result":100}
+02.10.2018 11:35:47 Dispatch action: import_tpl
+02.10.2018 11:35:47 Import Theme Options
+02.10.2018 11:35:48 Load data from the file http://poolservices.ancorathemes.com/demo/default/templates_options.txt successful
+02.10.2018 11:35:48 AJAX handler finished - send results to client: {"action":"import_tpl","error":"","start_from_id":0,"result":100}
+02.10.2018 11:35:48 Dispatch action: import_widgets
+02.10.2018 11:35:48 Import Widgets
+02.10.2018 11:35:48 Load data from the file http://poolservices.ancorathemes.com/demo/default/widgets.txt successful
+02.10.2018 11:35:49 AJAX handler finished - send results to client: {"action":"import_widgets","error":"","start_from_id":0,"result":100}
+02.10.2018 11:35:49 Dispatch action: import_essgrids
+02.10.2018 11:35:49 Load data from the file http://poolservices.ancorathemes.com/demo/default/ess_grid.json successful
+02.10.2018 11:35:49 Essential Grid import complete
+02.10.2018 11:35:50 AJAX handler finished - send results to client: {"action":"import_essgrids","error":"","start_from_id":0,"result":100}
+02.10.2018 11:35:50 Dispatch action: import_revslider
+02.10.2018 11:35:50 Import Revolution sliders
+02.10.2018 11:35:50 Load data from the file http://poolservices.ancorathemes.com/demo/default/revslider.txt successful
+02.10.2018 11:35:51 Download file http://poolservices.ancorathemes.com/demo/default/revsliders/boxedslider.zip successful
+02.10.2018 11:35:51 Slider "boxedslider.zip" imported
+02.10.2018 11:35:51 AJAX handler finished - send results to client: {"action":"import_revslider","error":"","start_from_id":"revsliders\/boxedslider.zip","result":33}
+02.10.2018 11:35:52 Dispatch action: import_revslider
+02.10.2018 11:35:52 Import Revolution sliders
+02.10.2018 11:35:52 Download file http://poolservices.ancorathemes.com/demo/default/revsliders/Homeslider1.zip successful
+02.10.2018 11:35:52 Slider "Homeslider1.zip" imported
+02.10.2018 11:35:52 AJAX handler finished - send results to client: {"action":"import_revslider","error":"","start_from_id":"revsliders\/Homeslider1.zip","result":67}
+02.10.2018 11:35:53 Dispatch action: import_revslider
+02.10.2018 11:35:53 Import Revolution sliders
+02.10.2018 11:35:53 Download file http://poolservices.ancorathemes.com/demo/default/revsliders/homeslider2.zip successful
+02.10.2018 11:35:53 Slider "homeslider2.zip" imported
+02.10.2018 11:35:53 AJAX handler finished - send results to client: {"action":"import_revslider","error":"","start_from_id":"revsliders\/homeslider2.zip","result":100}
+02.10.2018 11:35:55 Dispatch action: import_woocommerce
+02.10.2018 11:35:55 Import dump file: "woocommerce.txt"
+02.10.2018 11:35:55 Load data from the file http://poolservices.ancorathemes.com/demo/default/woocommerce.txt successful
+02.10.2018 11:35:55 Process table "woocommerce_attribute_taxonomies"
+02.10.2018 11:35:55 Imported 100%. Elapsed time 0 sec. of 162 sec.
+02.10.2018 11:35:55 Process table "woocommerce_downloadable_product_permissions"
+02.10.2018 11:35:55 Imported 100%. Elapsed time 0 sec. of 162 sec.
+02.10.2018 11:35:55 Process table "woocommerce_order_itemmeta"
+02.10.2018 11:35:55 Imported 100%. Elapsed time 0 sec. of 162 sec.
+02.10.2018 11:35:55 Process table "woocommerce_order_items"
+02.10.2018 11:35:55 Imported 100%. Elapsed time 0 sec. of 162 sec.
+02.10.2018 11:35:55 Process table "woocommerce_termmeta"
+02.10.2018 11:35:55 Imported 100%. Elapsed time 0 sec. of 162 sec.
+02.10.2018 11:35:55 AJAX handler finished - send results to client: {"action":"import_woocommerce","error":"","start_from_id":0,"result":100}
+02.10.2018 11:35:56 Dispatch action: import_end
+02.10.2018 11:35:56 AJAX handler finished - send results to client: {"action":"import_end","error":"","start_from_id":0,"result":100}

@@ -1,0 +1,6 @@
+2020-06-15T15:49:15+00:00 CRITICAL require_once(): Failed opening required '/Users/mauriciogutierrez/Sites/agualine/wp-content/plugins/revslider/public/revslider-front.class.php' (include_path='.:/usr/local/Cellar/php/7.4.3/share/php/pear') in /Users/mauriciogutierrez/Sites/agualine/wp-content/plugins/revslider/revslider.php on line 57
+
+2020-06-15T15:49:16+00:00 CRITICAL require_once(): Failed opening required '/Users/mauriciogutierrez/Sites/agualine/wp-content/plugins/revslider/public/revslider-front.class.php' (include_path='.:/usr/local/Cellar/php/7.4.3/share/php/pear') in /Users/mauriciogutierrez/Sites/agualine/wp-content/plugins/revslider/revslider.php on line 57
+
+2020-06-15T15:49:16+00:00 CRITICAL require_once(): Failed opening required '/Users/mauriciogutierrez/Sites/agualine/wp-content/plugins/revslider/public/revslider-front.class.php' (include_path='.:/usr/local/Cellar/php/7.4.3/share/php/pear') in /Users/mauriciogutierrez/Sites/agualine/wp-content/plugins/revslider/revslider.php on line 57
+

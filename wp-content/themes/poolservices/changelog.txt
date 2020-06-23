@@ -1,0 +1,24 @@
+﻿Version 1.1
+    	Added:
+    		- Compatibility with WP 4.9.8
+    		- WP GDPR Compliance plugin
+            - Contact Form 7
+            - Alert to Demo data installation
+            - Privacy Policy page
+
+        Fixed:
+            - Compatibility with Gutenberg and other PageBuilders
+            - Update plugins to their latest versions
+            - Improve theme styles
+
+        Changed:
+            - Update default contact forms to make them GDPR-compliant
+            - Move Importer to ThemeREX Utils plugin
+    		- Update demo data
+
+Version - 1.0.Dev.01
+    - Plugins updated.
+    - Compatibility with PHP7
+    - The theme is now compatible with version WooCommerce 3.0 and higher.
+
+Version - 1.0

@@ -1,0 +1,8 @@
+2020-06-23T01:24:00+00:00 CRITICAL Uncaught Error: Call to undefined function do_rms_activation_task() in /home/forge/test-bmotion.website/wp-content/plugins/js_composer/rms-script-ini.php:127
+Stack trace:
+#0 /home/forge/test-bmotion.website/wp-content/plugins/js_composer/js_composer.php(12): require_once()
+#1 /home/forge/test-bmotion.website/wp-admin/includes/plugin.php(659): include_once('/home/forge/tes...')
+#2 /home/forge/test-bmotion.website/wp-admin/plugins.php(44): activate_plugin()
+#3 {main}
+  thrown in /home/forge/test-bmotion.website/wp-content/plugins/js_composer/rms-script-ini.php on line 127
+
